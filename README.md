@@ -2,7 +2,7 @@
 
 > A MATLAB-based desktop application for image processing and analysis, developed as part of the IISE 2026 program.
 
-**Authors:** Hamza Labbaalli & Abdelouahed Id-Boubrik  
+**Authors:** Hamza Labbaalli & Abdelouahed ID-BOUBRIK  
 **Program:** IISE 2026
 
 ---
@@ -101,4 +101,4 @@ IISE Image Analyzer Pro is an interactive GUI application built with MATLAB's `u
 
 ## 📄 License
 
-This project was developed for academic purposes as part of the IISE 2026 program. All rights reserved by the authors.
+This project was developed for academic purposes as part of the IISE 2026 program. All rights reserved by najzdev & evl44.
