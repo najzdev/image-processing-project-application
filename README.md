@@ -44,6 +44,12 @@ IISE Image Analyzer Pro is an interactive GUI application built with MATLAB's `u
 
 ## 🚀 Getting Started
 
+### First Install Compiler MCRInstaller
+
+```bash
+C:\Program Files\MATLAB\R2013a\toolbox\compiler\deploy\win64
+```
+
 ### Running from MATLAB
 
 1. Open MATLAB.
